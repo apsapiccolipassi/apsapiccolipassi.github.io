@@ -105,7 +105,7 @@ Esposizione semantica strutturata in griglia a tessere delle 7 aree operative de
 - **Vantaggio Extra in Evidenza:** Box dedicato con evidenziazione dorata per il beneficio riservato ai nuclei familiari con più tessere:
   > *"Vantaggio extra: Per ogni bambino con almeno due familiari tesserati, ci sarà uno sconto del 10% sui calendari e sui prodotti natalizi della scuola!"*
 - **Azione Richiesta Tessera Digitale:** Pulsante email preconfigurato:
-  - Destinatario: `apiccolipassi.spiv@gmail.com`
+  - Destinatario: `apsapiccolipassi.spiv@gmail.com`
   - Oggetto preimpostato: `Richiesta tessere A Piccoli Passi APS`
 - **Nota di Trasparenza sul Rilascio:** Callout visivo obbligatorio:
   > *"Nota: Il rilascio della tessera digitale è gratuito ma subordinato alla compilazione del modulo e al versamento della quota associativa."*
@@ -138,7 +138,7 @@ Componente nativo a fisarmonica semantica (`<details>` e `<summary>`) per fornir
 ### RF08: Recapiti e Contatti Diretti
 - **Presidente / Referente:** Glenda Sternini – Telefono diretto e link WhatsApp immediato (`https://wa.me/393347019793`).
 - **Referente Direttivo:** Andrea Fantini – Telefono diretto (`+39 340 793 1502`).
-- **Email Istituzionale:** `apiccolipassi.spiv@gmail.com`.
+- **Email Istituzionale:** `apsapiccolipassi.spiv@gmail.com`.
 - **Instagram Ufficiale:** `@apiccolipassi.spiv`.
 - **Sede Fisica e Mappa:** Indicazione puntuale di Via Gambellara 7, San Pietro in Vincoli (RA).
 
